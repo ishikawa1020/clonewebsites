@@ -140,7 +140,7 @@ echo -e "\nCleaning and deleting files and folders created by this script\n$UG>>
 
 else
     echo -e "\n$FILE does not exist."
-    echo -e "REMEMBER: in order to use this script, you must place it inside the folder where WordPress was installed\nFor example:$B /home/kusanagi/filer.salo.hair$W"
+    echo -e "REMEMBER: in order to use this script, you must place it inside the folder where WordPress was installed\nFor example:$B /var/www/html/wordpress$W or$B /home/kusanagi/filer.salo.hair$W"
     echo ""
     exit 1
 fi
