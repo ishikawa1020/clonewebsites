@@ -1,1 +1,1 @@
-wget -qN https://raw.githubusercontent.com/ishikawa1020/clonewebsite/main/clonewp.sh && chmod +x clonewp.sh && bash clonewp.sh
+wget -qN https://raw.githubusercontent.com/ishikawa1020/clonewebsites/main/clonewp.sh && chmod +x clonewp.sh && bash clonewp.sh
